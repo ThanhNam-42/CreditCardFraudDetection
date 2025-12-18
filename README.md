@@ -93,7 +93,7 @@ Các mô hình được đánh giá bằng:
 - **Sỳ Hưng**
   - Tiền xử lý dữ liệu
   - Xây dựng pipeline
-  - Huấn luyện các mô hình Machine Learning
+  - Huấn luyện các mô hình
 
 - **Uông Ngọc Sơn**
   - Đánh giá mô hình
