@@ -14,7 +14,7 @@ Phát hiện gian lận thẻ tín dụng (Credit Card Fraud Detection)
 
 ### Thành viên nhóm
 - **Nguyễn Thành Nam** – N21DCCN150  
-- **Sỳ Hưng** – N22DCCN138  
+- **Sỳ Hưng** – N22DCCN137
 - **Uông Ngọc Sơn** – N22DCCI033  
 
 ---
